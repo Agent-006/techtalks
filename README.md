@@ -1,7 +1,3 @@
-Certainly! Here’s the revised GitHub repository About section for your project:
-
----
-
 # TechTalks
 
 Welcome to **TechTalks** – your go-to platform for coding questions and answers, designed to help developers collaborate, learn, and grow.
@@ -54,7 +50,3 @@ TechTalks is licensed under the MIT License. See the [LICENSE](link_to_license) 
 Have questions or feedback? Reach out to us at [sagarghosh0610@gmail.com] or join our [community forum](link_to_community_forum).
 
 Thank you for being a part of TechTalks!
-
----
-
-Feel free to adjust this template to better fit your project's specifics!
